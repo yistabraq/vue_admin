@@ -1,0 +1,39 @@
+{
+  "menu" : {
+    "title" : "Menu",
+    "action": "Action",
+    "add"   : "Add",
+    "type" : {
+      "0" : "Directory",
+      "1" : "Menu",
+      "2" : "Button"
+    },
+    "option" : {
+      "no" : "No",
+      "yes" : "Yes"
+    },
+    "status" : {
+      "valid" : "Valid",
+      "invalid" : "Invalid"
+    },
+    "drawer" : {
+      "add" : "Add a role",
+      "update" : "Update a role"
+    }
+  },
+  "column" : {
+    "name" : "Name",
+    "icon" : "Icon",
+    "permission" : "Permission",
+    "component" : "Component",
+    "order" : "Order",
+    "status" : "Status",
+    "type" : "Type",
+    "routePath" : "Path",
+    "parent" : "Parent",
+    "isExt" : "Is Extern",
+    "isShow" : "Is Show",
+    "keepalive" : "KeepAlive",
+    "createTime" : "Create Time"
+  }
+}

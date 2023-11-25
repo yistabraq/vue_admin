@@ -1,0 +1,10 @@
+{
+  "changePassword" : {
+    "passwordOld" : "Old password",
+    "passwordNew" : "New password",
+    "confirmPassword" : " Confirm Password",
+    "strengthMeter" : "strengthMeter",
+    "messageError" : "This field is required",
+    "noMatchError" : "The passwords entered twice are inconsistent!"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "app": {
+    "searchNotData": "Aucun résultat de recherche pour le moment",
+    "toSearch": "à rechercher",
+    "toNavigate": "pour naviguer"
+  },
+  "countdown": {
+    "normalText": "Obtenir le code SMS",
+    "sendText": "Réacquérir dans {0}s"
+  },
+  "cropper": {
+    "selectImage": "Sélectionner l'image",
+    "uploadSuccess": "Téléchargement réussi!",
+    "imageTooBig": "Image trop grande",
+    "modalTitle": "Téléchargement d'avatar",
+    "okText": "Confirmer et télécharger",
+    "btn_reset": "Réinitialiser",
+    "btn_rotate_left": "Rotation dans le sens inverse des aiguilles d'une montre",
+    "btn_rotate_right": "Rotation dans le sens des aiguilles d'une montre",
+    "btn_scale_x": "Retournement horizontal",
+    "btn_scale_y": "Retournement vertical",
+    "btn_zoom_in": "Zoom avant",
+    "btn_zoom_out": "Zoom arrière",
+    "preview": "Aperçu"
+  },
+  "drawer": {
+    "loadingText": "Chargement...",
+    "cancelText": "Fermer",
+    "okText": "Confirmer"
+  }, 
+  "excel": {
+    "exportModalTitle": "Exporter les données",
+    "fileType": "Type de fichier",
+    "fileName": "Nom de fichier"
+  },
+  "form": {
+    "putAway": "Mettre de côté",
+    "unfold": "Développer",
+    "maxTip": "Le nombre de caractères doit être inférieur à {0}",
+    "apiSelectNotFound": "Attendez que le chargement des données soit terminé..."
+  },
+  "icon": {
+    "placeholder": "Cliquez pour sélectionner l'icône",
+    "search": "Rechercher une icône",
+    "copy": "Copie de l'icône réussie!"
+  },
+  "menu": {
+    "search": "Recherche dans le menu"
+  },
+  "modal": {
+    "cancelText": "Fermer",
+    "okText": "Confirmer",
+    "close": "Fermer",
+    "maximize": "Agrandir",
+    "restore": "Restaurer"
+  },
+  "table": {
+    "settingDens": "Densité",
+    "settingDensDefault": "Par défaut",
+    "settingDensMiddle": "Moyenne",
+    "settingDensSmall": "Compact",
+    "settingColumn": "Paramètres des colonnes",
+    "settingColumnShow": "Affichage des colonnes",
+    "settingIndexColumnShow": "Colonne d'index",
+    "settingSelectColumnShow": "Colonne de sélection",
+    "settingFixedLeft": "Fixé à gauche",
+    "settingFixedRight": "Fixé à droite",
+    "settingFullScreen": "Plein écran",
+    "index": "Index",
+    "total": "total de {total}"
+  },
+  "time": {
+    "before": "il y a",
+    "after": "après",
+    "just": "à l'instant",
+    "seconds": "secondes",
+    "minutes": "minutes",
+    "hours": "heures",
+    "days": "jours"
+  }, 
+  "tree": {
+    "selectAll": "Tout sélectionner",
+    "unSelectAll": "Annuler la sélection",
+    "expandAll": "Tout développer",
+    "unExpandAll": "Tout réduire",
+    "checkStrictly": "Association hiérarchique",
+    "checkUnStrictly": "Indépendance hiérarchique"
+  },
+  "upload": {
+    "save": "Enregistrer",
+    "upload": "Télécharger",
+    "imgUpload": "Téléchargement d'image",
+    "uploaded": "Téléchargé",
+    "operating": "En cours d'opération",
+    "del": "Supprimer",
+    "download": "Télécharger",
+    "saveWarn": "Veuillez attendre que le fichier soit téléchargé et enregistré!",
+    "saveError": "Aucun fichier n'a été téléchargé avec succès et ne peut être enregistré!",
+    "preview": "Aperçu",
+    "choose": "Sélectionner le fichier",
+    "accept": "Prend en charge le format {0}",
+    "acceptUpload": "Ne téléchargez que des fichiers au format {0}",
+    "maxSize": "Un seul fichier ne dépasse pas {0}MB",
+    "maxSizeMultiple": "Ne téléchargez que des fichiers jusqu'à {0}MB!",
+    "maxNumber": "Ne téléchargez que jusqu'à {0} fichiers",
+    "legend": "Légende",
+    "fileName": "Nom de fichier",
+    "fileSize": "Taille du fichier",
+    "fileStatue": "État du fichier",
+    "pending": "En attente",
+    "startUpload": "Démarrer le téléchargement",
+    "uploadSuccess": "Téléchargement réussi",
+    "uploadError": "Échec du téléchargement",
+    "uploading": "Téléchargement",
+    "uploadWait": "Veuillez attendre la fin du téléchargement du fichier",
+    "reUploadFailed": "Retélécharger les fichiers échoués"
+  },
+  "verify": {
+    "error": "Échec de la vérification",
+    "time": "La vérification est réussie et prend {time} secondes",
+    "redoTip": "Cliquez sur l'image pour actualiser",
+    "dragText": "Maintenez le curseur enfoncé et faites-le glisser",
+    "successText": "Vérifié"
+  }
+}

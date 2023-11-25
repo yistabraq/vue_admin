@@ -1,0 +1,23 @@
+{
+  "role" : {
+    "title" : "Roles",
+    "action": "Action",
+    "add"   : "Ajouter",
+    "status" : {
+      "valid" : "Valide",
+      "invalid" : "Invalide"
+    },
+    "drawer" : {
+      "add" : "Ajouter un role",
+      "update" : "Mise à jour un role"
+    }
+  },
+  "column" : {
+    "name" : "Nom",
+    "value" : "Valeur",
+    "order" : "Ordre",
+    "status" : "Statut",
+    "createTime" : "Date de création",
+    "remark" : "Commentaire"
+  }
+}

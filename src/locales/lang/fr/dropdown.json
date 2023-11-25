@@ -1,0 +1,10 @@
+{
+  "changePassword" : {
+    "passwordOld" : "Ancien mot de passe",
+    "passwordNew" : "Nouveau mot de passe",
+    "confirmPassword" : "Confirmation mot de pass",
+    "strengthMeter" : "Niveau de sécurité",
+    "messageError" : "Ce champ est obligatoire",
+    "noMatchError" : "Les mots de passe saisis deux fois sont incohérents !"
+  }
+}

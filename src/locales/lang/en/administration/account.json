@@ -1,0 +1,17 @@
+{
+  "account" : {
+    "title" : "Users",
+    "action": "action",
+    "add"   : "Add"
+  },
+  "column" : {
+    "login" : "login",
+    "nickname" : "nickname",
+    "email" : "email",
+    "createTime" : "Date de création",
+    "role" : "role",
+    "dept" : "dept",
+    "remark" : "remark",
+    "password" : "password"
+  }
+}

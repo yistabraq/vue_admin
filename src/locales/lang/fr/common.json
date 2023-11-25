@@ -1,0 +1,17 @@
+{
+  "okText": "OK",
+  "closeText": "Fermer",
+  "cancelText": "Annuler",
+  "loadingText": "Chargement...",
+  "saveText": "Enregistrer",
+  "delText": "Supprimer",
+  "resetText": "Réinitialiser",
+  "searchText": "Chercher",
+  "queryText": "Recherche",
+  "inputText": "Veuillez saisir ",
+  "chooseText": "Veuillez choisir ",
+  "redo": "Actualiser",
+  "back": "Retour",
+  "light": "Clair",
+  "dark": "Nuit"
+}

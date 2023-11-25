@@ -1,0 +1,39 @@
+{
+  "menu" : {
+    "title" : "Menu",
+    "action": "Action",
+    "add"   : "Ajouter",
+    "type" : {
+      "0" : "Répertoire",
+      "1" : "Menu",
+      "2" : "Bouton"
+    },
+    "option" : {
+      "no" : "Non",
+      "yes" : "Oui"
+    },
+    "status" : {
+      "valid" : "Valide",
+      "invalid" : "Invalide"
+    },
+    "drawer" : {
+      "add" : "Ajouter un role",
+      "update" : "Mise à jour un role"
+    }
+  },
+  "column" : {
+    "name" : "Nom",
+    "icon" : "Icon",
+    "permission" : "Permission",
+    "component" : "Component",
+    "order" : "Ordre",
+    "status" : "Statut",
+    "type" : "Type",
+    "routePath" : "Chemin",
+    "parent" : "Parent",
+    "isExt" : "Externe",
+    "isShow" : "Visible",
+    "keepalive" : "KeepAlive",
+    "createTime" : "Date de création"
+  }
+}
